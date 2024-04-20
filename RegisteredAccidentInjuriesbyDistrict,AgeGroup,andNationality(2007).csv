@@ -1,0 +1,106 @@
+Year,District_EN,Age_Group_EN,Nationality_EN,Injuries
+2007,Dubai,0-1 (years),Citizen,104
+2007,Sharjah,0-1 (years),Citizen,1342
+2007,Ajman,0-1 (years),Citizen,73
+2007,U.A.Q.,0-1 (years),Citizen,2
+2007,R.A.K.,0-1 (years),Citizen,202
+2007,Fujairah,0-1 (years),Citizen,2628
+2007,Total,0-1 (years),Citizen,4351
+2007,Dubai,0-1 (years),Non-Citizen,86
+2007,Sharjah,0-1 (years),Non-Citizen,1891
+2007,Ajman,0-1 (years),Non-Citizen,90
+2007,U.A.Q.,0-1 (years),Non-Citizen,2
+2007,R.A.K.,0-1 (years),Non-Citizen,74
+2007,Fujairah,0-1 (years),Non-Citizen,430
+2007,Total,0-1 (years),Non-Citizen,2573
+2007,Dubai,1-5 (years),Citizen,167
+2007,Sharjah,1-5 (years),Citizen,5140
+2007,Ajman,1-5 (years),Citizen,861
+2007,U.A.Q.,1-5 (years),Citizen,3
+2007,R.A.K.,1-5 (years),Citizen,874
+2007,Fujairah,1-5 (years),Citizen,4725
+2007,Total,1-5 (years),Citizen,11770
+2007,Dubai,1-5 (years),Non-Citizen,136
+2007,Sharjah,1-5 (years),Non-Citizen,4934
+2007,Ajman,1-5 (years),Non-Citizen,689
+2007,U.A.Q.,1-5 (years),Non-Citizen,8
+2007,R.A.K.,1-5 (years),Non-Citizen,332
+2007,Fujairah,1-5 (years),Non-Citizen,1278
+2007,Total,1-5 (years),Non-Citizen,7377
+2007,Dubai,5-15 (years),Citizen,134
+2007,Sharjah,5-15 (years),Citizen,8578
+2007,Ajman,5-15 (years),Citizen,1651
+2007,U.A.Q.,5-15 (years),Citizen,22
+2007,R.A.K.,5-15 (years),Citizen,2239
+2007,Fujairah,5-15 (years),Citizen,5643
+2007,Total,5-15 (years),Citizen,18267
+2007,Dubai,5-15 (years),Non-Citizen,117
+2007,Sharjah,5-15 (years),Non-Citizen,6562
+2007,Ajman,5-15 (years),Non-Citizen,1344
+2007,U.A.Q.,5-15 (years),Non-Citizen,25
+2007,R.A.K.,5-15 (years),Non-Citizen,957
+2007,Fujairah,5-15 (years),Non-Citizen,1608
+2007,Total,5-15 (years),Non-Citizen,10613
+2007,Dubai,15-45 (years),Citizen,459
+2007,Sharjah,15-45 (years),Citizen,18009
+2007,Ajman,15-45 (years),Citizen,2849
+2007,U.A.Q.,15-45 (years),Citizen,257
+2007,R.A.K.,15-45 (years),Citizen,4472
+2007,Fujairah,15-45 (years),Citizen,14694
+2007,Total,15-45 (years),Citizen,40740
+2007,Dubai,15-45 (years),Non-Citizen,461
+2007,Sharjah,15-45 (years),Non-Citizen,39254
+2007,Ajman,15-45 (years),Non-Citizen,7402
+2007,U.A.Q.,15-45 (years),Non-Citizen,509
+2007,R.A.K.,15-45 (years),Non-Citizen,7351
+2007,Fujairah,15-45 (years),Non-Citizen,12872
+2007,Total,15-45 (years),Non-Citizen,67849
+2007,Dubai,45-65 (years),Citizen,230
+2007,Sharjah,45-65 (years),Citizen,3379
+2007,Ajman,45-65 (years),Citizen,364
+2007,U.A.Q.,45-65 (years),Citizen,27
+2007,R.A.K.,45-65 (years),Citizen,531
+2007,Fujairah,45-65 (years),Citizen,4485
+2007,Total,45-65 (years),Citizen,9016
+2007,Dubai,45-65 (years),Non-Citizen,222
+2007,Sharjah,45-65 (years),Non-Citizen,5860
+2007,Ajman,45-65 (years),Non-Citizen,971
+2007,U.A.Q.,45-65 (years),Non-Citizen,37
+2007,R.A.K.,45-65 (years),Non-Citizen,891
+2007,Fujairah,45-65 (years),Non-Citizen,2766
+2007,Total,45-65 (years),Non-Citizen,10747
+2007,Dubai,65+ (years),Citizen,237
+2007,Sharjah,65+ (years),Citizen,1716
+2007,Ajman,65+ (years),Citizen,128
+2007,U.A.Q.,65+ (years),Citizen,11
+2007,R.A.K.,65+ (years),Citizen,142
+2007,Fujairah,65+ (years),Citizen,1500
+2007,Total,65+ (years),Citizen,3734
+2007,Dubai,65+ (years),Non-Citizen,235
+2007,Sharjah,65+ (years),Non-Citizen,1324
+2007,Ajman,65+ (years),Non-Citizen,70
+2007,U.A.Q.,65+ (years),Non-Citizen,2
+2007,R.A.K.,65+ (years),Non-Citizen,26
+2007,Fujairah,65+ (years),Non-Citizen,175
+2007,Total,65+ (years),Non-Citizen,1832
+2007,Dubai,Total,Citizen,1331
+2007,Sharjah,Total,Citizen,38164
+2007,Ajman,Total,Citizen,5926
+2007,U.A.Q.,Total,Citizen,322
+2007,R.A.K.,Total,Citizen,8460
+2007,Fujairah,Total,Citizen,33675
+2007,Total,Total,Citizen,87878
+2007,Dubai,Total,Non-Citizen,1257
+2007,Sharjah,Total,Non-Citizen,59825
+2007,Ajman,Total,Non-Citizen,10566
+2007,U.A.Q.,Total,Non-Citizen,583
+2007,R.A.K.,Total,Non-Citizen,9631
+2007,Fujairah,Total,Non-Citizen,19129
+2007,Total,Total,Non-Citizen,100991
+2007,Total,Total,Total,2588
+2007,Total,Total,Total,97989
+2007,Total,Total,Total,16492
+2007,Total,Total,Total,905
+2007,Total,Total,Total,18091
+2007,Total,Total,Total,52804
+2007,Total,Total,Total,188869
